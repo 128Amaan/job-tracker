@@ -31,8 +31,11 @@ Built with **React + Tailwind + shadcn/ui** on the frontend and **Node.js + Expr
 ### Add Job Modal
 ![Add Job](./screenshots/add-job.png)
 
-### Jobs List
-![Jobs](./screenshots/jobs.png)
+### Delete
+![Delete](./screenshots/delete.png)
+
+### Searching
+![Searching](./screenshots/searching.png)
 
 ---
 
