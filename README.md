@@ -18,7 +18,7 @@ Built with **React + Tailwind + shadcn/ui** on the frontend and **Node.js + Expr
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ DEMO
 
 > Add images in a `/screenshots` folder in the project root.
 
